@@ -1,0 +1,17 @@
+.editable_text {
+    text-align: center;
+}
+
+.editable_textarea {
+    div {
+        padding-top: 10px;
+    }
+}
+
+.logout_button {
+    position: absolute !important;
+    right: 20px;
+    top: 20px;
+    background-color: red !important;
+    text-transform: capitalize !important;
+}
